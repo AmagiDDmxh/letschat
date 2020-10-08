@@ -3,3 +3,6 @@
 
 ## 技术栈提醒
 vuesax: 官方文档 - https://vuesax.com/
+
+## 请各位LGY父亲，注意事项,如果违反LGY胖10斤
+
